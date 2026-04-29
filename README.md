@@ -88,3 +88,10 @@ You can run your application in dev mode that enables live coding using:
 <img width="1817" height="862" alt="Image" src="https://github.com/user-attachments/assets/8fbad88e-5aa6-4653-9f3c-9fcb34cb2c26" />
 
 <img width="601" height="174" alt="Image" src="https://github.com/user-attachments/assets/283c692d-efe9-48b1-9378-f21ec5e0de01" />
+
+<br>
+
+## 9주차 수업 내용
+실습 1: 다크모드/라이트모드 적용시키기
+
+실습 2: 데이터베이스 만들기 및 연동
