@@ -1,4 +1,4 @@
-package org.acme;
+package acme.org;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.websocket.EncodeException;
@@ -37,3 +37,4 @@ public class StartWebSocket {
         System.out.println("onMessage> " + name + ": " + message);
     }
 }
+
