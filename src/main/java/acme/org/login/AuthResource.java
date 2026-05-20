@@ -18,6 +18,26 @@ public class AuthResource {
     @Inject
     RoutingContext context; 
 
+    // GET / → 세션 유무에 따라 메인 페이지 분기
+    @GET
+    @Produces(MediaType.TEXT_HTML)
+    public Response mainPage() {
+        String loginUser = context.session().get("loginUser");
+
+        System.out.println("=== [GET /] 세션 ID : " + 
+    context.session().id());
+        System.out.println("=== [GET /] loginUser : " + loginUser);
+
+        String htmlPath = (loginUser != null)
+            ? "META-INF/resources/login/main_after_login.html"
+            : "META-INF/resources/main_index.html";
+        
+        InputStream html = 
+    getClass().getClassLoader().getResourceAsStream(htmlPath);
+        return Response.ok(html).build();
+    }
+
+
     // GET /login → 로그인 HTML 페이지 반환
     @GET
     @Path("/login") 
