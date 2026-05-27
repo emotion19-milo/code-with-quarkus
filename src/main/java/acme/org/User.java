@@ -38,6 +38,8 @@ public class User extends PanacheEntity {
 
     public String phone;           // 연락처
 
+    public String profileImage;
+
     // 아이디로 조회
     public static User findByUsername(String username) {
         return find("username", username).firstResult();
