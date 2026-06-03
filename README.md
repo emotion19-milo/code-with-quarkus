@@ -8,6 +8,7 @@ You can run your application in dev mode that enables live coding using:
 ```
  # quarkus 프로젝트 시작! (학번 : 20250612 이름 : 신소민)
 매 주 수업 내용을 정리하자.
+
 ## 2, 3주차 수업 내용
 실습 1 : 쿼크스 환경 구축 및 준비
 
@@ -96,6 +97,19 @@ You can run your application in dev mode that enables live coding using:
 
 실습 2: 데이터베이스 만들기 및 연동
 
+다크모드
+
+<img width="1842" height="978" alt="Image" src="https://github.com/user-attachments/assets/aa48c92a-6e9a-41a8-aaf9-7822259e0fef" />
+
+라이트모드
+
+<img width="1831" height="972" alt="Image" src="https://github.com/user-attachments/assets/8b3e0810-ff2c-4df8-b713-53a97b358c9b" />
+
+데이터베이스
+
+<img width="1218" height="632" alt="Image" src="https://github.com/user-attachments/assets/73b3e552-01a5-4522-9de6-8a4a285d2cc2" />
+
+
 <br>
 
 ## 10, 11주차 수업 내용
@@ -113,6 +127,22 @@ You can run your application in dev mode that enables live coding using:
 
 실습 3: 회원가입 비밀번호 암호화
 
+로그인 페이지
+
+<img width="1848" height="978" alt="Image" src="https://github.com/user-attachments/assets/16eeac61-f2ea-4a87-bad2-837af03b8e73" />
+
+회원가입 페이지
+
+<img width="1850" height="970" alt="Image" src="https://github.com/user-attachments/assets/23574b05-43d3-4f06-a1c1-6d5eab6421ef" />
+
+모달
+
+<img width="1861" height="962" alt="Image" src="https://github.com/user-attachments/assets/ea39e6f6-1714-4c12-8079-9efc3d0093cf" />
+
+가입완료
+
+<img width="1861" height="781" alt="Image" src="https://github.com/user-attachments/assets/95080c70-c296-447d-a082-68ad0fd8ac61" />
+
 
 <br>
 
@@ -126,6 +156,8 @@ You can run your application in dev mode that enables live coding using:
 
 실습 3: 로그인 후 네비게이션 바에 '프로필' 추가
 
+<img width="842" height="152" alt="Image" src="https://github.com/user-attachments/assets/7ad2e08d-b697-4613-abfb-f02c88d7d146" />
+
 <br>
 
 ## 13주차 수업 내용
@@ -137,6 +169,16 @@ You can run your application in dev mode that enables live coding using:
 실습 2: 메인페이지 로딩 완료 창을 토스트 기능으로 변경
 
 실습 3: 로그인 시 프로필을 툴팁 형태로 확인할 수 있도록 변경함.
+
+프로필 확인
+
+<img width="1860" height="975" alt="Image" src="https://github.com/user-attachments/assets/ac898adf-32f0-4628-b2dc-9ea134bac9c4" />
+
+토스트
+
+<img width="662" height="255" alt="Image" src="https://github.com/user-attachments/assets/e0a78833-6d30-4dbf-bdc3-092986088bfc" />
+
+
 
 <br>
 
